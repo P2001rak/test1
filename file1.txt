@@ -1,7 +1,4 @@
-hai
-hello
-rakhishyam
-gitbash
-git merge
-git fetch
-git init
+hai hello rakhishyam gitbash git merge git fetch git init git pull request
+git reviewing
+git bash
+git repo
