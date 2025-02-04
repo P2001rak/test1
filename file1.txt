@@ -3,3 +3,5 @@ hello
 rakhishyam
 gitbash
 git merge
+git fetch
+git init
